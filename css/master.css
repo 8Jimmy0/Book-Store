@@ -1,0 +1,197 @@
+.assign-1-shape-1 {
+  background-color: #8a2be2;
+      width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+
+
+}
+.assign-1-shape-2 {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+    background-color: #892be280;
+}
+
+.assign-1-shape-3 {
+        width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+    background-color: hsl(270.82deg 75.93% 52.75% / 10%);
+
+}
+.assign-2 {
+    color: #fff;
+}
+.assign-2-shape-1 {
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-repeat: no-repeat;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-2-shape-2 {
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-repeat: repeat-y;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-2-shape-3 {
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-repeat: repeat-x;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+    
+}
+.assign-2-shape-4 {
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-3-shape-1 {
+    color: rgb(0, 256, 0);
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-repeat: no-repeat;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-3-shape-2 {
+    color: rgb(0, 256, 0);
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-position: right;
+    background-repeat: repeat-y;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-3-shape-3 {
+    color: rgb(0, 256, 0);
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-position: top;
+    background-repeat: repeat-x;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+    
+}
+.assign-3-shape-4 {
+    color: rgb(0, 299, 0);
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-4-shape-1 {
+    color: red;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-4-shape-2 {
+    color: red;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-position: right;
+    background-size: 80% ;
+    background-color: #ddd;
+    background-repeat: repeat-y;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+}
+.assign-4-shape-3 {
+    color: red;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-color: #ddd;
+    background-position: bottom;
+    background-size: 80%;
+    background-repeat: repeat-x;
+    background-image: url("/pics/css-assignment-5-8.png");
+    display: inline-block;
+    
+}
+.assign-4-shape-4 {
+    display: inline-block;
+    color: red;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-color: #ddd;
+    background-image: url("/pics/css-assignment-5-8.png");
+}
+.element-1 {
+display: block;
+width: 80%;
+padding: 10px; 
+margin: 40px auto;
+background-color: #eee;
+border-left: 10px #e91e63 solid;
+outline: 15px #eee solid;
+font-size: 30px;
+}
+.element-2 {
+display: block;
+width: 80%;
+padding: 10px; 
+margin: 40px auto;
+background-color: #eee;
+border-left: 10px #cddc39 solid;
+outline: 15px #eee solid;
+font-size: 30px;
+visibility: visible;
+}
+.element-3 {
+display: block;
+width: 80%;
+padding: 10px; 
+margin: 40px auto;
+background-color: #eee;
+border-left: 10px #009688 solid;
+outline: 15px #eee solid;
+font-size: 30px;
+}
+
+.parent .child span {
+    color: red;
+}
+.parent span {
+    color: blue;
+}
+.parent p {
+    color: green;
+}
+.title {
+    color: green;
+}
