@@ -1,3 +1,6 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .assign-1-shape-1 {
   background-color: #8a2be2;
       width: 400px;
@@ -194,4 +197,52 @@ font-size: 30px;
 }
 .title {
     color: green;
+}
+.text-shadow {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    background-color: #efefef;
+    text-shadow: 1px 1px rgb(244 67 54),2px 2px rgb(33 150 243),3px 3px rgb(156 39 176);
+}
+.one20,
+.two20,
+.three20 {
+    text-align: center;
+}
+.one20 {
+    text-transform: uppercase;
+}
+.two20 {
+    text-transform: capitalize;
+}
+
+.three20 {
+    text-transform: lowercase;
+}
+.lorem {
+    padding: 20px;
+    margin: auto;
+    background-color: #eee;
+    width: 400px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.lorem:hover {
+    overflow: visible;
+}
+.link-allin {
+    display: block;
+    margin: 20px auto auto;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: #009688;
+    width: 94px;
+    height: 50px;
+    line-height: 3;
+    border-bottom: 5px solid#00514a;
+    color: #fff;
 }
